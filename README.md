@@ -1,2 +1,2 @@
 # Day1
-This is about Git and GitHub
+This is about Git and GitHub basics
